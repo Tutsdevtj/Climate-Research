@@ -23,7 +23,7 @@ O projeto está hospedado gratuitamente na Vercel:
 - **CSS**
 - **JavaScript**
 - **[OpenWeather API](https://openweathermap.org/api)**
-- **[Flag API](https://flagcdn.com/)**
+- **[Flag API](flagsapi.com)**
 
 ## 🛠️ Como rodar localmente
 
